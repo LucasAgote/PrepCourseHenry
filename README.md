@@ -1,2 +1,1 @@
-# PrepCourseHenry
-repositorio modulo 2 prepcourse de henry
+crear un repositorio y clonarde de github a mi pc
